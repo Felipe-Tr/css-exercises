@@ -10,8 +10,9 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+text-align: center;
+margin-bottom: 32px;
 }
-
 /* do not edit this footer */
 .footer {
   position: fixed;
@@ -23,4 +24,13 @@ img {
   align-items: center;
   justify-content: center;
   background: #eee;
+}
+.plantasorden{
+  display: flex;
+  justify-content: center;
+  gap: 54px;
+}
+
+.p4{
+  max-width: 200px;
 }
